@@ -1,11 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: A list of courses taught.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<strong>ChE 229 Thermodynamics I</strong>
+<p>Spring 2022, The City College of New York</p>
+<p>Instructor: Prof. Ilona Kretzschmar</p>
+<br>
+<strong>ChE 229 Thermodynamics I</strong>
+<p>Spring 2021, The City College of New York</p>
+<p>Instructor: Prof. Ilona Kretzschmar</p>
+<br>
+<strong>ChE 330 Thermodynamics II</strong>
+<p>Fall 2020, The City College of New York</p>
+<p>Instructor: Prof. Ilona Kretzschmar</p>
+<br>
+<strong>ChE 229 Thermodynamics I</strong>
+<p>Spring 2020, The City College of New York</p>
+<p>Instructor: Prof. Alex Couzis</p>
