@@ -1,0 +1,168 @@
+I":2<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Xu2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Tunable Pseudocapacitive Intercalation of Chloroaluminate Anions into Graphite Electrodes for Rechargeable Aluminum Batteries</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Xu, Jeffrey H.</em>,&nbsp;Schoetz, Theresa,&nbsp;McManus, Joseph R.,&nbsp;Subramanian, Vikesh R.,&nbsp;Fields, Peter W.,&nbsp;and Messinger, Robert J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of The Electrochemical Society</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Rechargeable aluminum-graphite batteries using chloroaluminate-containing electrolytes have been the focus of significant research, particularly due to their high-rate capabilities. Engineered graphite electrodes have been shown to exhibit supercapacitor-like rate performance, despite the fact they store charge via the electrochemical intercalation of polyatomic AlCl4 − anions. However, the origins of such rate capabilities are not well understood. Here, using electrochemical techniques, we disentangle quantitatively the diffusion-limited Faradaic, pseudocapacitive, and capacitive contributions to charge storage, revealing that AlCl4 − anions intercalate into graphite with significant pseudocapacitive characteristics due to low ion diffusion limitations. Pristine and mildly exfoliated graphites are compared, where exfoliation resulted in significantly higher pseudocapacitive AlCl4 − intercalation at the highest potential redox pair as well as higher galvanostatic capacity retention at faster discharge rates. The relationships between graphite structure, ion mass transport, and the overall rate of electrochemical AlCl4 − intercalation are discussed. Ion diffusion within the electrolyte phase of the porous electrode is shown to play a key role in controlling the rate of intercalation at higher potentials and faster rates, which can be enhanced by reducing electrode tortuosity. The results establish that chloroaluminate anion intercalation into graphite exhibits non-diffusion-limited pseudocapacitive contributions that are tunable by modifying the graphite structure.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Xu2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Molecular-level environments of intercalated chloroaluminate anions in rechargeable aluminum-graphite batteries revealed by solid-state NMR spectroscopy</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Xu, Jeffrey H.</em>,&nbsp;Jadhav, Ankur L.,&nbsp;Turney, Damon E.,&nbsp;and Messinger, Robert J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Materials Chemistry A</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Rechargeable aluminum-graphite batteries are an emerging energy storage technology with great promise: they exhibit high rate performance, cyclability, and a discharge potential of approximately 2 V, while both electrodes are globally abundant, low cost, and inherently safe. The batteries use chloroaluminate-containing electrolytes and store charge in the graphite electrodes when molecular AlCl4- anions electrochemically intercalate within them. However, much remains to be understood regarding the ion intercalation mechanism, in part due to challenges associated with characterizing the chloroaluminate anions themselves. Here, we use solid-state 27Al nuclear magnetic resonance (NMR) spectroscopy to probe the molecular-level electronic and magnetic environments of intercalated chloroaluminate anions at different states-of-charge. The results reveal broad 27Al NMR signals associated with intercalated AlCl4- anions, reflecting high extents of local disorder. The intercalated anions experience a diversity of local environments, many of which are far from the ideal crystalline-like structures often depicted in graphite staging models. Density functional theory (DFT) calculations of the total 27Al isotropic shifts enable the contributions of chemical shift, ring-current effects, and electric quadrupolar interactions to be disentangled quantitatively. In combination, the solid-state NMR and DFT results reveal the molecular geometries and environments of intercalated AlCl4- anions and capture the significant disorder present in intercalated graphite battery electrodes. This journal is</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Jadhav2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Quantitative molecular-level understanding of electrochemical aluminum-ion intercalation into a crystalline battery electrode</div>
+          <!-- Author -->
+          <div class="author">Jadhav, Ankur L.,&nbsp;
+                  <em>Xu, Jeffrey H.</em>,&nbsp;and Messinger, Robert J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>ACS Energy Letters</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Few materials are known to electrochemically intercalate trivalent aluminum cations, a charge storage mechanism central to rechargeable aluminum-ion battery electrodes. Here, using the chevrel phase Mo6S8 as a model crystalline electrode material, we couple electrochemical and solid-state 27Al NMR methods to understand quantitatively the aluminum-ion intercalation mechanism up from the molecular level. Unlike divalent Mg2+ cations, trivalent Al3+ cations intercalate simultaneously, as opposed to sequentially, into two cavities within the chevrel framework during galvanostatic discharge. Minimal Al3+ cation trapping occurs upon deintercalation (\textless7%). The simultaneous ion intercalation mechanism, as well as slow solid-state ion diffusion, can both be understood in terms of the high charge density of Al3+ cations. We also reveal that an amorphous surface layer forms upon aluminum-ion desolvation from molecular chloroaluminate anions in the ionic liquid electrolyte. The results yield quantitative molecular-level understanding of aluminum-ion intercalation in a model crystalline electrode material and establish solid-state 27Al NMR as a powerful characterization tool for rechargeable aluminum-ion batteries.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Xu2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Effects of Graphite Structure and Ion Transport on the Electrochemical Properties of Rechargeable Aluminum-Graphite Batteries</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Xu, Jeffrey H.</em>,&nbsp;Turney, Damon E.,&nbsp;Jadhav, Ankur L.,&nbsp;and Messinger, Robert J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>ACS Applied Energy Materials</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Rechargeable aluminum-graphite batteries using chloroaluminate-containing ionic liquid electrolytes store charge when molecular chloroaluminate anions intercalate into graphite. However, the relationship between graphite structure and bulk electrochemical properties is not well understood. Here, we characterize the structure of natural, synthetic, and pyrolytic graphites and analyze their electrochemical performance in aluminum-graphite cells, revealing insights into their charge storage mechanisms, rate capabilities, Coulombic efficiencies, and extended cycling stabilities. Natural graphite exhibited the highest specific capacity at all potentials and the greatest capacity retention during variable-rate galvanostatic cycling. The compositions of the intercalated electrodes (Cx[AlCl4]) were determined coulometrically, and their stage numbers were rationalized by using a hard-sphere model. Variable-rate CV analyses establish that the rates of reversible electrochemical chloroaluminate intercalation in natural and synthetic graphites are effectively reaction-limited at potentials \textless2.1 V, and neither strongly diffusion- nor reaction-limited above 2.3 V, differing significantly from the diffusion-limited electrochemical intercalation of lithium cations into graphite. The results yield a new understanding of the relationships between graphite structure, ion transport, and electrochemical properties in rechargeable aluminum-graphite batteries and are expected to aid the rational design of graphite electrodes with enhanced electrochemical performance.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Wen2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Materials Compatibility in Rechargeable Aluminum Batteries: Chemical and Electrochemical Properties between Vanadium Pentoxide and Chloroaluminate Ionic Liquids</div>
+          <!-- Author -->
+          <div class="author">Wen, Xiaoyu,&nbsp;Liu, Yuhang,&nbsp;Jadhav, Ankur,&nbsp;Zhang, Jian,&nbsp;Borchardt, Dan,&nbsp;Shi, Jiayan,&nbsp;Wong, Bryan M.,&nbsp;Sanyal, Biplab,&nbsp;Messinger, Robert J.,&nbsp;and Guo, Juchen
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemistry of Materials</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>To demonstrate the importance of electrode/electrolyte stability in rechargeable aluminum (Al) batteries, we investigate the chemical compatibility between vanadium pentoxide (V2O5), a proposed positive electrode material for Al batteries, and the common chloroaluminate ionic liquid electrolytes. We reveal that V2O5 reacts with both the Lewis acidic (Al2Cl7-) and the Lewis neutral species (AlCl4-) within the electrolyte. The reaction products are identified using a combination of electrochemical analyses, Raman spectroscopy, liquid-state and solid-state nuclear magnetic resonance (NMR) spectroscopy, and density functional theory (DFT) calculations. The results establish that V2O5 chemically reacts with Al2Cl7- to form vanadium oxychloride (VOCl3) and amorphous aluminum oxide. V2O5 also chemically reacts with AlCl4- to produce dioxovanadium chloride (VO2Cl) and a new species of metavanadate anion coordinated with aluminum chloride (AlCl3VO3-). These products furthermore exhibit electrochemical redox activity between V5+ and V2+ oxidation states. Our results have significant implications when interpreting the electrochemical properties and mechanisms of rechargeable Al-V2O5 batteries.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
