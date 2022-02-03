@@ -19,3 +19,4 @@ NMR is at the heart of our group. We use many techniques across both solid- and 
 <div class="caption">
     NMR magnet (left) and PhoenixNMR stator (right). Our tools for performing solid-state NMR.
 </div>
+
