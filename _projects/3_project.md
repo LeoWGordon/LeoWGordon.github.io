@@ -2,7 +2,7 @@
 layout: page
 title: NMR Techniques
 description: We aim to develop and utilise state-of-the-art NMR techiques for the analysis of energy storage materials.
-img: assets/img/Magnet.jpg
+img: assets/img/Magnet.jpeg
 importance: 3
 category: NMR
 ---
