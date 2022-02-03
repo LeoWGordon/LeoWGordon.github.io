@@ -3,6 +3,9 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: A list of courses taught.
+profile:
+  align: right
+  image: NMR_teaching.jpeg
 nav: true
 ---
 <div>
