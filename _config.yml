@@ -8,7 +8,7 @@ middle_name: W.
 last_name: Gordon
 email: lgordon@ccny.cuny.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The website of Leo W. Gordon. Find out about my projects and activities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -103,7 +103,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /posts/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -240,7 +240,6 @@ imagemagick:
     - assets/img/
   input_formats:
     - ".jpg"
-    - ".JPG"
     - ".jpeg"
     - ".png"
     - ".tiff"

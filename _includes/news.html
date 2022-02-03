@@ -1,11 +1,14 @@
 
           <div class="news">
             <h2>News</h2>
-            {% if site.news  -%}
+            {% if site.posts  -%}
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%}
+              {%- assign news = site.posts -%}
               {% for item in news limit: site.news_limit %}
+              {% if forloop.first == true %}
+              <!-- because of .DS_Store and sorting in normal order, I start from index 2 -->
+              {% else %}
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
@@ -16,6 +19,7 @@
                     {%- endif %}
                   </td>
                 </tr>
+              {% endif %}
               {%- endfor %}
               </table>
             </div>
