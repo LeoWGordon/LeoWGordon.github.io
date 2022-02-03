@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year PhD student at [The City College of New York](https://www.ccny.cuny.edu/chemeng) (CCNY) working in the field of energy storage materials where I am advised by [Prof. Robert J. Messinger](https://batteries-for-space.ccny.cuny.edu).
+I am a 4th year PhD student at [The City College of New York](https://www.ccny.cuny.edu/chemeng) (CCNY) working in the field of energy storage materials where I am advised by [Prof. Robert J. Messinger](https://batteries-for-space.ccny.cuny.edu). [Curriculum Vitae](https://LeoWGordon.github.io/assets/pdf/Leo_CV.pdf)
 
 My primary focus is using NMR characterisation techniques to determine charge storage mechanisms and to understand electrolyte speciation. Solid-state NMR is my main tool for investigating charge storage, which I apply primarily to the problem of organic electrodes in rechargeable aluminium batteries. I also have expertise in liquid NMR, which I have demonstrated through my work on lithium metal battery electrolytes. I have further interests in metal anode surface chemistries, and the nuances of charge storage with different aluminium electrolyte speciations.
 
