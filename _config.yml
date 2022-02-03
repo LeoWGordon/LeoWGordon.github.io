@@ -240,6 +240,7 @@ imagemagick:
     - assets/img/
   input_formats:
     - ".jpg"
+    - ".JPG"
     - ".jpeg"
     - ".png"
     - ".tiff"
