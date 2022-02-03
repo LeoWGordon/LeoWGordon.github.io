@@ -19,3 +19,4 @@ category: Multivalent Batteries
 <div class="caption">
     We utilise solid-state NMR using the magnet on the left, to study organic materials such as the one on the right.
 </div>
+
