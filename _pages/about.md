@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-[Curriculum Vitae](https://LeoWGordon.github.io/assets/pdf/Leo_CV.pdf)
+[Curriculum Vitae](/assets/pdf/Leo_CV.pdf)
 
 I am a 4th year PhD student at [The City College of New York](https://www.ccny.cuny.edu/chemeng) (CCNY) working in the field of energy storage materials where I am advised by [Prof. Robert J. Messinger](https://batteries-for-space.ccny.cuny.edu).
 
