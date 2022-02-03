@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: An overview of projects I work on or have worked on in the past.
 nav: true
-display_categories: [work, fun]
+display_categories: [Multivalent Batteries, Lithium Metal Batteries, NMR]
 horizontal: false
 ---
 
