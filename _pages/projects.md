@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: An overview of projects I work on, or have worked on in the past.
+description: An overview of projects I work on, or have worked on in the past. This page is currently still a work in progress!
 nav: true
 display_categories: [Multivalent Batteries, Lithium Metal Batteries, NMR]
 horizontal: false
