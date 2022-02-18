@@ -9,6 +9,7 @@
               <!-- {% if forloop.first == true %} -->
               <!-- because of .DS_Store and sorting in normal order, I start from index 2 -->
               <!-- {% else %} -->
+                                  <!-- {%- endif %} -->
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
@@ -16,7 +17,6 @@
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%}
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    <!-- {%- endif %} -->
                   </td>
                 </tr>
               {% endif %}
