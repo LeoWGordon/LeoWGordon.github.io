@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aluminium-chalcogen batteries
+title: Aluminium-chalcogen Batteries
 description: Our group has done work to pursue the uncover the details of Aluminium-chalcogen energy storage.
 img: assets/img/Sulfur_TOC_Figure.png
 importance: 4
@@ -17,7 +17,7 @@ In the sulfur system, we use <sup>27</sup>Al NMR to distinguish the solid and li
     </div>
 </div>
 <div class="caption">
-    We identified liquid polysulfide environments intreracting with electroactive ions in electrolytye.
+    We identified exchange between liquid polysulfide environments and electroactive ions in electrolyte.
 </div>
 
 A similar phenomenon was studied for selenium, where we were additionally able to directly probe the selenium through <sup>77</sup>Se NMR. Through the study of the selenium electrode at various states of charge, we successfully identified the influence of long-range order on the electrochemical performance, as well as the local environments present.
