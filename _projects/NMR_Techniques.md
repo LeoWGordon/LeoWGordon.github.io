@@ -24,7 +24,7 @@ I favour the use of dipolar-mediated correlation experiments. Many of the system
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DipolarCouplings_27Al_1H.png" title="14.1 T Magnet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DipolarCouplings_27Al_1H.png" title="Dipolar Schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
