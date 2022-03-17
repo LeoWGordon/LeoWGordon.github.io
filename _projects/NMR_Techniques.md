@@ -23,7 +23,7 @@ NMR is at the heart of our group. We use many techniques across both solid- and 
 I favour the use of dipolar-mediated correlation experiments. Many of the systems I work with are proton-rich, allowing the transfer of magnetisation from the proton 'bath' to other spin-active nuclei within sub-nanometer distances. The dipolar coupling constant scales with the inverse of the internuclear distance cubed $$D \propto \frac{1}{r^{3}}$$, therefore is an effective through-space probe for complexed ions such as aluminium in organic battery systems. The spin-locking time can also be modulated to approximate through-bond interactions if needed.
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/DipolarCouplings_27Al_1H.png" title="Dipolar Schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
