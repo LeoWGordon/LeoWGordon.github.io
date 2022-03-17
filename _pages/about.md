@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p><a href="mailto:lgordon@ccny.cuny.edu"> lgordon@ccny.cuny.edu </a></p>
-    <p>(917) 742-7804</p>
+    <p>+1 (917) 742-7804</p>
     <p>Steinman Hall, Rm. 305</p>
     <p>160 Convent Ave.</p>
     <p>New York, NY 10031, USA</p>
