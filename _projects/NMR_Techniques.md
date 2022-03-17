@@ -20,3 +20,4 @@ NMR is at the heart of our group. We use many techniques across both solid- and 
     NMR magnet (left) and PhoenixNMR stator (right). Our tools for performing solid-state NMR.
 </div>
 
+I favour the use of dipolar-mediated correlation experiments. Many of the systems I work with are proton-rich, allowing the transfer of magnetisation from the proton 'bath' to other spin-active nuclei within sub-nanometer distances. The dipolar coupling constant scales with the inverse of the internuclear distance cubed $$D \propto 1/r^{3}$$.
