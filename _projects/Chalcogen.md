@@ -2,7 +2,7 @@
 layout: page
 title: aluminium-chalcogen batteries
 description: Our group has done work to pursue the uncover the details of Aluminium-chalcogen energy storage.
-img:
+img: assets/img/Sulfur_TOC_Figure.png
 importance: 4
 category: Multivalent Batteries
 ---
