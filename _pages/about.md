@@ -6,7 +6,7 @@ subtitle: Chemical Engineering PhD Candidate interested in NMR techniques for st
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: prof_pic_png.png
   address: >
     <p><a href="mailto:lgordon@ccny.cuny.edu"> lgordon@ccny.cuny.edu </a></p>
     <p>+1 (917) 742-7804</p>
