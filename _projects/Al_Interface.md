@@ -2,7 +2,7 @@
 layout: page
 title: Aluminium Anode Interface
 description: The aluminium anode interface is key to progressing rechargeable aluminium battery research, particularly in aqueous systems.
-img: assets/img/Treated_Al_SEM.tiff
+img: assets/img/Treated_Al_SEM.png
 importance: 2
 category: Multivalent Batteries
 ---
@@ -12,7 +12,7 @@ Surface treatments using Lewis acidic [EMIm]Cl:AlCl<sub>3</sub> ionic liquids ha
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Treated_Al_SEM.tiff" title="SEM of treated Al surface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Treated_Al_SEM.png" title="SEM of treated Al surface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
