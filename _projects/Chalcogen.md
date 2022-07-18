@@ -9,7 +9,7 @@ category: Multivalent Batteries
 
 Our group has worked to develop understanding in aluminium-chalcogen batteries, primarily through NMR characterisation. We have worked with both aluminium-sulfur, and aluminium-selenium systems and we strive to identify their common features and their distinct characteristics. We probe the electrochemical reaction products in these systems to attain an understanding of their electrochemical properties and reversibility.
 
-In the sulfur system, we use <sup>27</sup>Al NMR to distinguish the solid and liquid reaction products and how they interact. We additionally highlight the different aluminium sulfide polymorphs present in commercially available powders and how that compares to electrochemically generated Al<sub>2</sub>S<sub>3</sub>. The paper we published in this area can be found at [this link.]( The final paper can be found at [this link](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00248)
+In the sulfur system, we use <sup>27</sup>Al NMR to distinguish the solid and liquid reaction products and how they interact. We additionally highlight the different aluminium sulfide polymorphs present in commercially available powders and how that compares to electrochemically generated Al<sub>2</sub>S<sub>3</sub>. The paper we published in ACS Chemistry of Materials can be found at [this link.](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00248)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
