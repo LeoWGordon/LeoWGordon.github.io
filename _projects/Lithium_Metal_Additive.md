@@ -10,7 +10,7 @@ Lithium metal batteries using liquid electrolytes often suffer from dendritic gr
 
 This work represents a crucial step forward in the field of Li-metal batteries, enabling existing processing and materials to be used while avoiding the pernicious reactions that are renowned for destroying Li-metal cell performance, on both the lithium metal and on the cathode materials, which are susceptible to transition metal leaching in the presence of HF. Our proposal of the mechanistic pathway for acid and water scavenging may also highlight to other researchers alternative materials that could be used as liquid electrolyte additives for Li-metal batteries.
 
-[The paper can be accessed here.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c09267).
+[The paper can be accessed here.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c09267)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
