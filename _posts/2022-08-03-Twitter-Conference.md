@@ -7,4 +7,4 @@ categories: conferences
 inline: true
 ---
 
-Our paper in collaboration with the Juchen Guo group (UC Riverside): "PerfI presented a poster at the Global NMR discussions Twitter conference and had a good time learning some new things and engaging with some more of the NMR community.
+I presented a poster at the Global NMR discussions Twitter conference and had a good time learning some new things and engaging with some more of the NMR community.
