@@ -18,6 +18,26 @@ In collaboration with the [John Group](http://gjohn.ccny.cuny.edu) at CCNY we ha
     We study organic materials such as indanthrone quinone.
 </div>
 
+[Our first paper on the topic](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c04272), published August 2022, highlighted indanthrone quinone (INDQ) as a high-performance cathode material for Al-organic batteries and studied the electronic and ionic charge storage mechanisms in depth. Using a rigorous solid-state NMR methodology, this investigation established the molecular changes on the organic in tandem with the nature of the electroactive ions and, in concert with the electrochemical analyses, determined a feasible explanation for the curious generation of aluminium-containing cationic species in an electrolyte natively containing only anionic aluminium species.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/INDQ_NMR.png" title="Indanthrone Quinone NMR" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Multidimensional solid-state dipolar-mediated NMR on indanthrone quinone establishing through-space heteronuclear interactions.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/INDQ_rxn.png" title="INDQ Mechanism" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The electrochemical reaction mechanism for aluminium complexation by INDQ.
+</div>
+
 Our current goal is to understand from the basic level, what chemical and electronic effects substituents have on the fused aromatic ring system of anthraquinone and how we can tune these organic molecules for optimal performance. Our aim is to develop this fundamental understanding before oligomerising/polymerising these molecules to mitigate issues due to solubility.
 
 <div class="row justify-content-sm-center">
