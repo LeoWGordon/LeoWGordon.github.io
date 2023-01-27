@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Group publications.
+description: My first-author and collaborative publications.
 years: [2023, 2022, 2021, 2020, 2019]
 nav: true
 ---
