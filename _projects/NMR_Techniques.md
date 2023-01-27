@@ -46,11 +46,11 @@ The application of these NMR methodologies to the study of batteries can be seen
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/XXX.png" title="Pulse programs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DCQ_pp.png" title="Pulse programs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Examples of our primarily used pulse programs, as shown in [our JMR article.](https://www.sciencedirect.com/science/article/abs/pii/S1090780723000095)
+    Examples of our primarily used pulse programs, as shown in our JMR article (see link above).
 </div>
 
 The systems studied in our lab have covered a wide range of different nuclei, including: <sup>1</sup>H, <sup>7</sup>Li, <sup>11</sup>B, <sup>13</sup>C, <sup>19</sup>F, <sup>27</sup>Al, <sup>29</sup>Si, <sup>31</sup>P, <sup>67</sup>Zn, <sup>77</sup>Se, <sup>207</sup>Pb, among others.
