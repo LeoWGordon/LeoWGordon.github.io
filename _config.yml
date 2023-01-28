@@ -203,7 +203,7 @@ jekyll-archives:
 scholar:
 
   last_name: Gordon
-  first_name: [Leo, Leo W., L., L.W., L. W.]
+  first_name: [Leo, Leo W., Leo W, L., L.W., L. W.]
 
   style: apa
   locale: en
