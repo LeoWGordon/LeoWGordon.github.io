@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACS Applied Materials & Interfaces Paper Published
-description: Our paper in collaboration with the Juchen Guo group (UC Riverside)&#58; "Performance Leap of Lithium Metal Batteries in LiPF<sub>6</sub> Carbonate Electrolyte by a Phosphorus Pentoxide Acid Scavenger" was published in ACS Applied Materials & Interfaces today. This work is a culmination of excellent performance of lithium metal batteries and deep, mechanistic understanding.
+description: Our paper in collaboration with the Juchen Guo group (UC Riverside)&#58; "Performance Leap of Lithium Metal Batteries in LiPF6 Carbonate Electrolyte by a Phosphorus Pentoxide Acid Scavenger" was published in ACS Applied Materials & Interfaces today. This work is a culmination of excellent performance of lithium metal batteries and deep, mechanistic understanding.
 date: 2022-08-05
 categories: papers
 inline: true
