@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic_png.png
   address: >
+	<p>Materials Research Laboratory 3115, UCSB</p>
     <p><a href="mailto:lwgordon@ucsb.edu"> lwgordon@ucsb.edu </a></p>
     <p>+1 (917) 742-7804</p>
 
