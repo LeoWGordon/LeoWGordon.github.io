@@ -1,6 +1,4 @@
-Name,Nuclide,Spin,"Magnetic
-Moment",Gamma (MHz/T),"Quadrupole
-Moment (fm2)"
+Name,Nuclide,Spin,Magnetic Moment,Gamma (MHz/T),Quadrupole Moment (fm2)
 Hydrogen,1H,0.5,4.83735,42.57746460132430,---
 Deuterium,2H,1,1.21260,6.53590463949470,0.28600
 Helium,3He,0.5,-3.68515,-32.43603205003720,---

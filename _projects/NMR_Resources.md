@@ -2,7 +2,7 @@
 layout: page
 title: NMR Resources
 description: Resources to assist NMR analysis.
-img: assets/img/Magnet.jpeg
+img: assets/img/Code_icon.png
 importance: 4
 category: NMR
 ---
@@ -11,7 +11,7 @@ While looking for tables of NMR parameters, I found that there are very few whic
 
 The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupole moments can be downloaded [here.](/assets/csv/Gyromagnetic_Ratios.csv)
 
-<table>
+<!-- <table>
   {% for row in site.data.Gyromagnetic_Ratios %}
     {% if forloop.first %}
     <tr>
@@ -25,7 +25,7 @@ The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupol
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-</table>
+</table> -->
 
 For symplistic integration into python, a copyable variable is given below:
 
