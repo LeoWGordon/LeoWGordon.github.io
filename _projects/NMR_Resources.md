@@ -11,7 +11,7 @@ While looking for tables of NMR parameters, I found that there are very few whic
 
 The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupole moments can be downloaded [here.](/assets/csv/Gyromagnetic_Ratios.csv)
 
-<!-- <table>
+<table>
   {% for row in site.data.Gyromagnetic_Ratios %}
     {% if forloop.first %}
     <tr>
@@ -153,4 +153,4 @@ NMR_table = [
     ['Bismuth', '209Bi', '3.5', '4.54440', '6.96303000000000', '-51.60000'],
     ['Uranium', '235U', '3.5', '-0.43000', '-0.82761000000000', '493.60000']
     ]
-    {% endhighlight %} -->
+    {% endhighlight %}
