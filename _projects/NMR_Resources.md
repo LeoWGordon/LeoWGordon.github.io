@@ -9,9 +9,9 @@ category: NMR
 
 While looking for tables of NMR parameters, I found that there are very few which are downloadable and seemingly none which are immediately ready to be read into python (which I admit is a fairly niche scenario). Therefore I have used data from Alexej Jerschow's website to generate a csv file and a python variable, both found below.
 
-The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupole moments can be downloaded [here.](/assets/pdf/Leo_CV.pdf)
+The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupole moments can be downloaded [here.](/assets/csv/Gyromagnetic_Ratios.csv)
 
-<table>
+<!-- <table>
   {% for row in site.data.Gyromagnetic_Ratios %}
     {% if forloop.first %}
     <tr>
@@ -29,7 +29,7 @@ The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupol
 
 For symplistic integration into python, a copyable variable is given below:
 
-<!-- {% highlight python %}
+{% highlight python %}
 NMR_table = [
     ['Name', 'Nuclide', 'Spin', 'Magnetic Moment', 'Gyromagnetic Ratio (MHz/T)', 'Quadrupole Moment (fm^2)'],
     ['Hydrogen', '1H', '0.5', '4.83735', '42.57746460132430', '---'],
