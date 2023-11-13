@@ -29,7 +29,7 @@ The csv of nuclides, spins, magnetic moments, gyromagnetic ratios, and quadrupol
 
 For symplistic integration into python, a copyable variable is given below:
 
-{% highlight python %}
+<!-- {% highlight python %}
 NMR_table = [
     ['Name', 'Nuclide', 'Spin', 'Magnetic Moment', 'Gyromagnetic Ratio (MHz/T)', 'Quadrupole Moment (fm^2)'],
     ['Hydrogen', '1H', '0.5', '4.83735', '42.57746460132430', '---'],
@@ -153,4 +153,4 @@ NMR_table = [
     ['Bismuth', '209Bi', '3.5', '4.54440', '6.96303000000000', '-51.60000'],
     ['Uranium', '235U', '3.5', '-0.43000', '-0.82761000000000', '493.60000']
     ]
-    {% endhighlight %}
+    {% endhighlight %} -->
