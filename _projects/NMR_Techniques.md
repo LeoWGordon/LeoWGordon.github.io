@@ -53,4 +53,4 @@ The application of these NMR methodologies to the study of batteries can be seen
     Examples of our primarily used pulse programs, as shown in our JMR article (see link above).
 </div>
 
-The systems I have studied lab have covered a wide range of different nuclei, including: <sup>1</sup>H, <sup>7</sup>Li, <sup>11</sup>B, <sup>13</sup>C, <sup>19</sup>F, <sup>23</sup>Na, <sup>27</sup>Al, <sup>29</sup>Si, <sup>31</sup>P, <sup>67</sup>Zn, <sup>77</sup>Se, <sup>113</sup>Cd,<sup>207</sup>Pb, among others.
+The systems I have studied lab have covered a wide range of different nuclei, including: <sup>1</sup>H, <sup>7</sup>Li, <sup>11</sup>B, <sup>13</sup>C, <sup>19</sup>F, <sup>23</sup>Na, <sup>27</sup>Al, <sup>29</sup>Si, <sup>31</sup>P, <sup>67</sup>Zn, <sup>77</sup>Se, <sup>113</sup>Cd, <sup>207</sup>Pb, among others.
