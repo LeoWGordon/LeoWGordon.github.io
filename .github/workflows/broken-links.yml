@@ -3,7 +3,7 @@ name: Check for broken links
 on:
   push:
     branches:
-      - gh-pages
+      - clone_test
     paths:
       - "assets/**"
       - "**.html"

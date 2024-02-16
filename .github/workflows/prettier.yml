@@ -6,7 +6,7 @@ on:
       - clone_test
   push:
     branches:
-      - gh-pages
+      - clone_test
 
 jobs:
   check:
