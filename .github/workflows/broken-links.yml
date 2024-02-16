@@ -3,7 +3,8 @@ name: Check for broken links
 on:
   push:
     branches:
-      - clone_test
+      - master
+      - main
     paths:
       - "assets/**"
       - "**.html"
@@ -20,7 +21,8 @@ on:
       - "!lighthouse_results/**"
   pull_request:
     branches:
-      - clone_test
+      - master
+      - main
     paths:
       - "assets/**"
       - "**.html"

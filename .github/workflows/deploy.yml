@@ -3,7 +3,8 @@ name: deploy
 on:
   push:
     branches:
-      - clone_test
+      - master
+      - main
     paths:
       - "assets/**"
       - "**.html"
@@ -26,7 +27,8 @@ on:
       - "!README.md"
   pull_request:
     branches:
-      - clone_test
+      - master
+      - main
   workflow_dispatch:
 
 permissions:
