@@ -3,12 +3,10 @@ name: Prettier code formatter
 on:
   pull_request:
     branches:
-      - master
-      - main
+      - clone_test
   push:
     branches:
-      - master
-      - main
+      - gh-pages
 
 jobs:
   check:
