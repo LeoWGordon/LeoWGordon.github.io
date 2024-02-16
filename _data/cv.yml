@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Leo W. Gordon
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctorate in Chemical Engineering
+      institution: The City College of New York, New York, USA
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Mentor: Prof. Robert J. Messinger"
+        - Advanced solid and liquid-state NMR methodologies to determine molecular-level mechanisms
+        - Electrochemical techniques for battery characterisation
+        # - title: Description 3.
+          # contents:
+          #   - Sub-description 1.
+          #   - Sub-description 2.
+    - title: Master's Degree in Chemistry
+      institution: The University of Edinburgh, Edinburgh, Scotland
+      year: 2012 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Developed multimicroelectrode arrays as electrochemical sensors
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Scholar in Materials
+      institution: University of California Santa Barbara, Santa Barbara, USA
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Pulsed-field gradient NMR techniques to study transport processes in electrolytes and polymers
+
+    - title: Teaching Assistant - Chemical Engineering Thermodynamics
+      institution: The City College of New York, New York, USA
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Prepared lectures and recitations to consolidate knowledge
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Treasurer of the Graduate Student Council
+      institution: The City College of New York, New York, USA
+      year: 2020 - 2021
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Treasurer and Founding Member of the CCNY's ECS Chapter
+      institution: The City College of New York, New York, USA
+      year: 2021 - 2023
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Electrochemical Society (ECS) Travel Award
+        - Global NMR Twitter Conference Poster Award
+        - Rocky Mountain Conference (RMC) on Magnetic Resonance Travel Award
+        - Experimental Nuclear Magnetic Resonance Conference (ENC) Travel Award
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Grove School of Engineering Fellowship
+    - year: 2018 - 2019
+      items: 
+        - Acrivos Fellowship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Nuclear Magnetic Resonance Method Development
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - I have a keen interest in using and improving state-of-the-art NMR methodologies for characterisation of new and challenging materials
+    - title: Molecular-Level Mechanisms in Batteries
       items:
-        - Description 1.
-        - Description 2.
+        - I strive to understand atomic-scale interactions in energy materials through advanced NMR and electrochemical characterisation
+    - title: Transport Processes in Polymers and Liquids
+      items:
+        - Magnetic resonance affords many approaches to study mass transport in liquids and polymers, as well as across interfaces with both time and spatial resolution
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
