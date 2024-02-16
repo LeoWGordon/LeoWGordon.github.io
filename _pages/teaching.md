@@ -7,6 +7,7 @@ profile:
   align: right
   image: NMR_teaching.jpeg
 nav: true
+nav_order: 6
 ---
 <div>
 <strong>ChE 229 Thermodynamics I</strong>
