@@ -133,11 +133,11 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /posts/:path/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  #   permalink: /posts/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -223,18 +223,18 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
-    tag: archive-tag
+    # tag: archive-tag
     category: archive-category
   permalinks:
     year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
+    # tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+# display_categories: ['papers', 'conferences'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -315,8 +315,14 @@ imagemagick:
     - ".tiff"
     - ".webp"
   output_formats:
-    webp: "-quality 75%"
-
+    webp: "-quality 75"
+# Lazy loading images
+#   If you enable lazy loading, all images will add the loading="lazy" attribute.
+#   This will make your site load faster, but it may not be supported in all browsers.
+#   You can also set loading="" to other values for specific images to override the default behavior.
+#   Options: "auto", "eager", "lazy"
+#   See https://web.dev/browser-level-image-lazy-loading/ for more information.
+lazy_loading_images: true # enables lazy loading of images (recommended)
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
