@@ -131,14 +131,16 @@ blockquote {
 // Card
 
 .card {
-  background-color: var(--global-card-bg-color);
+  border: 2px solid var(--global-theme-color) !important;
+  border-radius: 0.125rem;
+  background-color: var($grey-color-light);
 
   img {
     width: 100%;
   }
 
   .card-title {
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
   }
 
   .card-item {
@@ -446,7 +448,7 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
+        color: var(--global-cv-text-color) !important;
         background-color: var(--global-theme-color) !important;
       }
     }
@@ -456,7 +458,7 @@ footer.sticky-bottom {
 .table-cv-map {
   background-color: transparent;
   border: none;
-  color: var(--global-text-color);
+  color: var(--global-cv-text-color);
 }
 
 // Repositories
@@ -585,7 +587,7 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
-        color: var(--global-theme-color);
+        color: var(--global-bg-color);
       }
     }
   }

@@ -16,7 +16,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: #{$forestgreen-color};
   --global-divider-color: rgba(0,0,0,.1);
-  --global-card-bg-color: #{$white-color};
+  --global-card-bg-color: #{#ffffff};
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -60,6 +60,8 @@ html[data-theme='dark'] {
   --global-footer-link-color: #{$cyan-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: #{$cyan-color};
+  --global-cv-text-color: #{$grey-color-light};
+  --global-card-bg-color: #{$grey-color-dark};
 
   .fa-sun {
     padding-left: 10px;
