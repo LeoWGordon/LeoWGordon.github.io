@@ -1,10 +1,13 @@
 <div class="news">
-  <h2>News</h2>
+  <!-- <h2>News</h2> -->
   {% if site.posts  -%}
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
     {%- assign news = site.posts -%}
-    {% for item in news limit: site.news_limit %}
+    {% if site.news.limit %}
+    {% assign news_limit = site.news.limit %}
+    {% endif %}
+    {% for item in news limit: news_limit %}
     <!-- {% if forloop.first == true %} -->
     <!-- because of .DS_Store and sorting in normal order, I start from index 2 -->
     <!-- {% else %} -->

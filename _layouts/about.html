@@ -53,8 +53,10 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest Posts</a></h2>
-            {%- include latest_posts.html %}
+            <!-- <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest Posts</a></h2> -->
+            <!-- {%- include latest_posts.html %} -->
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+            {%- include news.html limit=true %}
           {%- endif %}
 
           <!-- Selected papers -->

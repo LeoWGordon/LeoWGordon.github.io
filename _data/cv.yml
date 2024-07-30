@@ -54,6 +54,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        # - Rising Stars in Materials Science & Engineering 2024 Workshop Participant
+        - Heeger Fellowship
     - year: 2022
       items: 
         - Electrochemical Society (ECS) Travel Award
