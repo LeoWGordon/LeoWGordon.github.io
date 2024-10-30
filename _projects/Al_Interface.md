@@ -4,7 +4,7 @@ title: Aluminium Anode Interface
 description: The aluminium anode interface is key to progressing rechargeable aluminium battery research, particularly in aqueous systems.
 img: assets/img/Treated_Al_SEM.png
 importance: 2
-category: Multivalent Batteries
+category: Batteries
 ---
 Aluminium batteries have great promise based solely on a theoretical basis due to its high capacity, however, this capacity is based on the assumption of an Al<sup>3+</sup> charge carrying species. Due to the strong and stable oxide layer formed on aluminium metal, only a small number of electrolytes can effectively plate and strip aluminium at ambient temperatures. Currently ionic liquid or deep-eutectic solvent based electrolytes are commonly used which contain singly charged polyatomic aluminium complexes (*e.g.* AlCl<sub>4</sub><sup>-</sup>), unfortunately these electrolytes are often corrosive and unstable in air or moisture. To develop the feasibility of aluminium batteries, progress should be made on the aluminium anode surface, to enhance the electrodeposition and enable the use of less corrosive electrolytes. To successfully produce a stable solid electrolyte interphase (SEI) layer on the aluminium surface could promote the use of more benign electrolytes and even enable aqueous electrolytes to be used.
 

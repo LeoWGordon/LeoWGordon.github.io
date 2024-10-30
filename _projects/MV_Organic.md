@@ -4,7 +4,7 @@ title: Organic Electrodes for Multivalent Batteries
 description: We strive to characterise organic batteries to help target optimal structures for high performing electrodes in different battery chemistries.
 img: assets/img/INDQ_with_H.png
 importance: 1
-category: Multivalent Batteries
+category: Batteries
 ---
 
 In collaboration with the [John Group](http://gjohn.ccny.cuny.edu) at CCNY we have been developing understanding of electrochemical ion complexation to organic molecules, with a specific focus on quinone-type organics.

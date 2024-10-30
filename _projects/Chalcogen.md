@@ -4,7 +4,7 @@ title: Aluminium-chalcogen Batteries
 description: Our group has done work to pursue the uncover the details of Aluminium-chalcogen energy storage.
 img: assets/img/Sulfur_TOC_Figure.png
 importance: 4
-category: Multivalent Batteries
+category: Batteries
 ---
 
 Our group has worked to develop understanding in aluminium-chalcogen batteries, primarily through NMR characterisation. We have worked with both aluminium-sulfur, and aluminium-selenium systems and we strive to identify their common features and their distinct characteristics. We probe the electrochemical reaction products in these systems to attain an understanding of their electrochemical properties and reversibility.

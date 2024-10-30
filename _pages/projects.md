@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: An overview of projects I work on, or have worked on in the past. This page will be updated with more detail as results get published.
 nav: true
-display_categories: [Multivalent Batteries, Lithium Metal Batteries, NMR]
+display_categories: [Batteries, Solute Transport, NMR]
 horizontal: false
 ---
 
