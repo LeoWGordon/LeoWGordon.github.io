@@ -139,6 +139,9 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.bdsk-url-1 %}
+            <a href="{{ entry.bdsk-url-1 }}" class="btn btn-sm z-depth-0" role="button">URL</a>
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}
