@@ -31,9 +31,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor in Chemistry
+      institution: Danish Technical University, Kongens Lyngby, Denmark
+      year: 2025 - Present
+      description:
+        - Pulsed-field gradient NMR techniques to study transport processes in electrolytes and polymers
+
     - title: Postdoctoral Scholar in Materials
       institution: University of California Santa Barbara, Santa Barbara, USA
-      year: 2023 - present
+      year: 2023 - 2025
       description:
         - Pulsed-field gradient NMR techniques to study transport processes in electrolytes and polymers
 
