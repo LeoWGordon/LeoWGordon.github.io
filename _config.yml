@@ -219,6 +219,7 @@ jekyll-archives:
 
 scholar:
 
+  # last_name: [Gordon, Gordon†, Gordon*]
   last_name: Gordon
   first_name: [Leo, Leo W., Leo W, L., L.W., L. W.]
 

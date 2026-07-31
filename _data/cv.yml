@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English (native), German (beginner), Danish (beginner)
 
 - title: Education
   type: time_table
@@ -28,7 +28,7 @@
       description:
         - Developed multimicroelectrode arrays as electrochemical sensors
 
-- title: Experience
+- title: Positions Held
   type: time_table
   contents:
     - title: Assistant Professor in Chemistry
@@ -43,39 +43,16 @@
       description:
         - Pulsed-field gradient NMR techniques to study transport processes in electrolytes and polymers
 
-    - title: Teaching Assistant - Chemical Engineering Thermodynamics
-      institution: The City College of New York, New York, USA
-      year: 2020 - 2022
-      description:
-        - Prepared lectures and recitations to consolidate knowledge
-
-    - title: Treasurer of the Graduate Student Council
-      institution: The City College of New York, New York, USA
-      year: 2020 - 2021
-
-    - title: Treasurer and Founding Member of the CCNY's ECS Chapter
-      institution: The City College of New York, New York, USA
-      year: 2021 - 2023
-
-- title: Honors and Awards
+- title: Funding
   type: time_table
   contents:
-    - year: 2024
+    - year: 2026
       items:
-        # - Rising Stars in Materials Science & Engineering 2024 Workshop Participant
-        - Heeger Fellowship
-    - year: 2022
-      items: 
-        - Electrochemical Society (ECS) Travel Award
-        - Global NMR Twitter Conference Poster Award
-        - Rocky Mountain Conference (RMC) on Magnetic Resonance Travel Award
-        - Experimental Nuclear Magnetic Resonance Conference (ENC) Travel Award
-    - year: 2021
-      items: 
-        - Grove School of Engineering Fellowship
-    - year: 2018 - 2019
-      items: 
-        - Acrivos Fellowship
+        - DTU Alliance Scholarship
+        - Otto Mønsted Foundation Travel Grant
+    - year: 2025
+      items:
+        - Torkil Holm Foundation Startup Grant
 
 - title: Academic Interests
   type: nested_list
@@ -90,6 +67,42 @@
       items:
         - Magnetic resonance affords many approaches to study mass transport in liquids and polymers, as well as across interfaces with both time and spatial resolution
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Rising Stars in Materials Science & Engineering
+        - Heeger Fellowship
+    - year: 2022
+      items: 
+        - Electrochemical Society (ECS) Travel Award
+        - Global NMR Twitter Conference Poster Award
+        - Rocky Mountain Conference (RMC) on Magnetic Resonance Travel Award
+        - Experimental Nuclear Magnetic Resonance Conference (ENC) Travel Award
+    - year: 2021
+      items: 
+        - Grove School of Engineering Fellowship
+    - year: 2018 - 2019
+      items: 
+        - Acrivos Fellowship
+
+- title: Additional Experience
+  type: time_table
+  contents:
+    - title: Treasurer and Founding Member of the CCNY's ECS Chapter
+      institution: The City College of New York, New York, USA
+      year: 2021 - 2023
+    
+    - title: Teaching Assistant - Chemical Engineering Thermodynamics
+      institution: The City College of New York, New York, USA
+      year: 2020 - 2022
+      description:
+        - Prepared lectures and recitations to consolidate knowledge
+
+    - title: Treasurer of the Graduate Student Council
+      institution: The City College of New York, New York, USA
+      year: 2020 - 2021
 # - title: Other Interests
 #   type: list
 #   contents:
