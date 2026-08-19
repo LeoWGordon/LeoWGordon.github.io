@@ -1,0 +1,27 @@
+# Build output
+_site/
+
+# Ruby / Node dependencies
+vendor/
+node_modules/
+
+# Minified / vendor assets (not hand-authored, not meant to be formatted)
+assets/css/*.min.css
+assets/js/*.min.js
+assets/js/mdb.min.js
+assets/js/bootstrap.bundle.min.js
+assets/js/bootstrap-toc.min.js
+assets/plotly/demo.html
+assets/json/resume.json
+
+# SCSS files that use Liquid templating (not valid CSS, prettier's css parser can't parse them)
+assets/css/main.scss
+
+# Stray duplicate files (OneDrive/sync conflict copies)
+**/* 2.*
+**/*.v2 2.js
+**/*.v2.js 2.map
+
+# Lockfiles
+package-lock.json
+Gemfile.lock
