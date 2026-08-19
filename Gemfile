@@ -26,3 +26,4 @@ group :other_plugins do
 end
 
 gem "csv", "~> 3.3"
+gem "rake"

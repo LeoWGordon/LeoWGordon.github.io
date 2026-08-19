@@ -217,6 +217,7 @@ DEPENDENCIES
   jekyll-twitter-plugin
   jemoji
   mini_racer
+  rake
   unicode_utils
   webrick
 
