@@ -48,4 +48,5 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: --config lychee.toml './**/*.md' './**/*.html'
+          # root-dir resolves root-relative links (e.g. /assets/...) against the repo root
+          args: --config lychee.toml --root-dir "$GITHUB_WORKSPACE" './**/*.md' './**/*.html'

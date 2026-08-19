@@ -7,7 +7,6 @@
 exclude_path = [
   "_includes",
   "_layouts",
-  "_site",
   "_sass",
   "vendor",
   "node_modules",
@@ -15,6 +14,7 @@ exclude_path = [
   "CUSTOMIZE.md",
   "_pages/404.md",
   "_pages/blog.md",
+  "Defaults/2018-12-22-distill.md",
 ]
 
 # External services that rate-limit or block automated checkers (429/402/503)
@@ -25,5 +25,5 @@ exclude = [
   "^https://github-readme-stats\\.vercel\\.app",
 ]
 
-verbose = true
+verbose = "info"
 no_progress = true
