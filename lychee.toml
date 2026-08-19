@@ -1,0 +1,29 @@
+# Config for lycheeverse/lychee-action, used by both broken-links.yml (source)
+# and broken-links-site.yml (built _site output).
+
+# Directories that hold raw, unrendered Liquid templates/partials, or
+# build/dependency output. Scanning these as literal HTML/Markdown produces
+# false positives like `{{ project.url }}` being treated as a filename.
+exclude_path = [
+  "_includes",
+  "_layouts",
+  "_site",
+  "_sass",
+  "vendor",
+  "node_modules",
+  "README.md",
+  "CUSTOMIZE.md",
+  "_pages/404.md",
+  "_pages/blog.md",
+]
+
+# External services that rate-limit or block automated checkers (429/402/503)
+# regardless of whether the underlying link is actually broken.
+exclude = [
+  "^https://www\\.linkedin\\.com",
+  "^https://github-profile-trophy\\.vercel\\.app",
+  "^https://github-readme-stats\\.vercel\\.app",
+]
+
+verbose = true
+no_progress = true

@@ -1,0 +1,11 @@
+# Jekyll build output (rebuilt fresh by CI on every deploy)
+_site/
+
+# Ruby / Node dependencies
+vendor/
+node_modules/
+.bundle/
+
+# Purgecss / misc build artifacts
+diff.txt
+diff.html
